@@ -19,4 +19,23 @@ BEGIN{
 
     count=count^2
     print count
+
+    counter=0
+    counter+=10
+    print counter
+
+    counter-=1
+    print counter
+
+    counter*=2
+    print counter
+
+    counter/=3
+    print counter
+
+    counter%=4
+    print counter
+
+    counter^=2
+    print counter
 }
