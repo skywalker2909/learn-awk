@@ -1,4 +1,4 @@
 # learn-awk
 
-[Introduction](./intro.sh)
-[Variables](./variables.sh)
+- [Introduction](./intro.sh)
+- [Variables](./variables.sh)
