@@ -38,4 +38,21 @@ BEGIN{
 
     counter^=2
     print counter
+
+    level=0
+    level++
+    print level
+
+    level--
+    print level
+
+    value=5
+
+    post=value++
+    print post
+
+    print value
+
+    pre=--value
+    print pre
 }
