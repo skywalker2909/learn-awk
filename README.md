@@ -5,5 +5,5 @@
 - [Operators](./operators.sh)
 - [Conditionals](./conditionals.sh)
 - [Loops](./loops.sh)
-- [Arrays]
-- [Functions]
+- [Arrays](./arrays.sh)
+- [Functions](./functions.sh)
